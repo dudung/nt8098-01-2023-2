@@ -1,7 +1,7 @@
 # nt8098-01-2023-2
 Technical Writing in International Journal course 01 class in 2023-2 semester Feb-May 2024
 
-+ `03-apr-2024` Midterm ([task](https://github.com/dudung/nt8098-01-2023-2/issues/1), [lms]())
++ `03-apr-2024` Midterm ([task](https://github.com/dudung/nt8098-01-2023-2/issues/1), [lms](https://edunex.itb.ac.id/courses/58918/preview/246268))
 + `26-mar-2024` AI and introduction writing ([task](https://github.com/dudung/nt6094-01-2023-2/issues/8))
 + `20-mar-2024` The use of AI in publications ([task](https://github.com/dudung/nt6094-01-2023-2/issues/7))
 + `13-mar-2024` Example of making introduction ([slide](https://osf.io/6fsy9))
